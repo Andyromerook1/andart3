@@ -1,0 +1,5 @@
+{
+    "target_ws": "wss://echo.websocket.org/",
+    "headers": {},
+    "max_burst": 3
+}
